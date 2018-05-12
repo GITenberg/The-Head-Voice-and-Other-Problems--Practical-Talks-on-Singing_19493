@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8707'
     url: http://www.gutenberg.org/2009/agents/8707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19493#The-Head-Voice-and-Other-Problems--Practical-Talks-on-Singing
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-10-07'
 gutenberg_type: Text
