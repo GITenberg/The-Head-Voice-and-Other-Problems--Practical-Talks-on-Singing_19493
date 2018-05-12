@@ -1,0 +1,28 @@
+_repo: The-Head-Voice-and-Other-Problems--Practical-Talks-on-Singing_19493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clippinger, D. A. (David Alva)
+    alias: Clippinger, David Alva
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '8707'
+    url: http://www.gutenberg.org/2009/agents/8707
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Singing'
+title: 'The Head Voice and Other Problems: Practical Talks on Singing'
+url: http://www.gutenberg.org/ebooks/19493
